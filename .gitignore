@@ -3,6 +3,5 @@
 *.nes
 *.o
 bak/
-bin/
 ext/
 obj/
