@@ -758,6 +758,7 @@ Mode8TextTileBuffer:
     .BYTE $AA, $04, $1C, $0A, $1F, $0E, $22, $0A
     .BYTE $05, $1B, $0E, $1D, $1B, $22, $FF
 
+; -LIFE- IS HERE!
 StatusBarStaticsTransferBuf:
     .BYTE $23, $C2, $0E, $40, $00, $00, $44, $55
     .BYTE $55, $00, $00, $04, $00, $00, $44, $55
